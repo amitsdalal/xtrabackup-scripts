@@ -8,6 +8,10 @@
 pyxtrabackup
 ============
 
+Cloned from https://github.com/deviantony/xtrabackup-scripts to develop for CentOS 7 and Ubuntu 18.
+
+
+
 ``pyxtrabackup`` is a Python wrapper for the Percona Xtrabackup utility, see `official homepage <http://www.percona.com/software/percona-xtrabackup>`_.
 
 The tool allows you to take full and incremental backups using Xtrabackup.
